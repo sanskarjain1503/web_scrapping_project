@@ -1,0 +1,18 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 624-642-332
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 14:35:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 14:35:53] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 14:35:53] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 14:35:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'redmi9promax', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Good Cemara'}, {'Product': 'redmi9promax', 'Name': 'Patel bhavik Patel bhavik', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Good'}, {'Product': 'redmi9promax', 'Name': 'Surendra  Singh', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Super cemera overall best phone in segment...\U0001f4f8\U0001f4f8'}, {'Product': 'redmi9promax', 'Name': 'Mini Thapa ', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'So \U0001f60aHappyLove IT'}, {'Product': 'redmi9promax', 'Name': 'Barsha Biswas', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Excellent \U0001f970\u2764'}, {'Product': 'redmi9promax', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Loved it , best performance'}, {'Product': 'redmi9promax', 'Name': 'Subhasmita Panda', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'I love this phoneCamera quality is very goodBattery performance is \U0001f44dOverally phone is good'}, {'Product': 'redmi9promax', 'Name': 'shiras Ali', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Beautiful camera'}, {'Product': 'redmi9promax', 'Name': 'Raju Burahadia', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Champion Gold colour is awesome'}, {'Product': 'redmi9promax', 'Name': 'Tanay Guha', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Very good product at this range...'}, {'Product': 'redmi9promax', 'Name': 'Tanay Guha', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Very good product at this range...'}]
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 14:36:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 14:36:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 14:36:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
