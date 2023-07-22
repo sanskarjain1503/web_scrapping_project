@@ -9,6 +9,7 @@ import pymongo
 from pymongo.mongo_client import MongoClient
 
 app = Flask(__name__)
+application=app
 
 @app.route("/", methods = ['GET'])
 def homepage():
